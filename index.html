@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+            function textChange(textValue) {
+                document.getElementById('hoverbox').textContent = textValue;
+            }
+        </script>
+        <style>
+            .center {
+                margin: auto;
+                width: 50%;
+                border: 3px solid green;
+                padding: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="hoverbox" class="center" onmouseover="textChange('Hello!')" onmouseout="textChange('Hover here!')">
+            Hover here!
+        </div>
+    </body>
+</html>
