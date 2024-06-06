@@ -6,6 +6,10 @@ hundreds of courses promising to make you a top dev in 10 weeks. My advice would
 to use free resources for as long as possible (which could be forever), starting
 by writing some small programs, then building on that knowledge with computer fundamentals, and then using _that_ knowledge to take on larger projects.
 
+It's a rabbit hole. Be warned, once you start, there's no going back...
+
+![The hal gif](./img/hal.gif)
+
 Here are some links that I think might be useful:
 
 ## Writing your first code
@@ -69,3 +73,20 @@ Learning to _program_ is good, but learning computer and algorithm fundamentals 
 
 - Books! I'll add some here that I liked, when I remember the titles. 
 
+## Other languages / tools
+
+We've really only covered JavaScript as the language to learn here, and there are thousands out there. JavaScript is a good starter because it can be used on the frontend and backend (so you have range as a developer), but other languages excel in areas where JavaScript falls short, in terms of development practice and runtime. 
+
+Some languages I have used and might be worth looking at:
+
+- [Java](https://www.w3schools.com/java/java_intro.asp) - A general purpose language that I heard was initially used for Blu-Ray machines. According to the JRE installer splash screen 'Java is used in 3 Billion Devices'. That's a lot of Blu-Ray players. Java is statically typed, unlike JavaScript (no relation), so your experience programming in it will different.
+
+- [Golang](https://go.dev/) is a personal favourite of mine at the moment. It's a strongly typed compiled language, great for command line applications and servers. It's blazing fast, and has some very nice features.
+
+- [SQL](https://www.w3schools.com/sql/sql_intro.asp) is used for making queries to relational databases. Well worth looking into if you want persistant storage for applications. 
+
+### Tools
+
+- [VS Code](https://code.visualstudio.com/) is a text editor with extra bits. It's free, it's basically industry standard right now, and you can add _more_ extra bits in the form of extensions. 
+
+- [Docker](https://www.docker.com/) is a container development tool, which is far beyond the requirements of learning to program, but might be useful at some point on Windows since it allows you to run things that otherwise won't work with Windows. 
