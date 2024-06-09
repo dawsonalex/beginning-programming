@@ -60,6 +60,9 @@ Writing code that runs in the browser is a great place to start because the barr
 
 - [**Node.js and NPM**](https://nodejs.org/en) are a JavaScript runtime environment (something that interprets and executes JavaScript) and package manager (npm stands for Node Package Manager). You'll need npm to install the dependecies the BattleSnake starter relies on, and Node.JS to run the actual BattleSnake server locally. You can install both (as one package) via chocolatey [here](https://chocolatey.org/install#individual).
 
+- [**P5.js**](https://p5js.org/) is a JavaScript library that provides a bunch of useful tools for drawing things on a window. You can make animations, games, generative art, and loads more stuff. It has an online editor [here](https://editor.p5js.org/) so you don't even have to set up an environment to try it out!
+
+- [**Daniel Shiffman**](https://thecodingtrain.com/) runs a website that has loads of information about getting started programming. He has a lot of tutorials on programming algorithms using p5.js (and it's Java-based sibling, [Processing](https://processing.org/)). Search 'The Coding Train' on YouTube to find videos on creating all sorts of cool stuff. (I particularly like 'Conways Games of Life' as a starter).
 
 ## Digging Deeper
 
